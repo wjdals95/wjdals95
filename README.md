@@ -14,3 +14,4 @@
 |Cell1|Cell2|
  
  - 📫 How to reach me...: <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/><a href="mailto:wjdals992@naver.com">wjdals992@naver.com</a>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
